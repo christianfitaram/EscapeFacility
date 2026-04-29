@@ -111,6 +111,13 @@ InitTestScene*.unity*
 # Executables
 *.exe
 
+# Custom Unity export outputs used in this repo
+/EFLINUX.x86_64
+/EFLINUX_Data/
+/EFWIN/
+/UnityPlayer.so
+/EscapeFacility_BurstDebugInformation_DoNotShip/
+
 # OS generated files
 .DS_Store
 Thumbs.db
